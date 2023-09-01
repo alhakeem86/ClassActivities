@@ -1,7 +1,7 @@
 // create a constant variable (const)
-const MyName;
+const Myname;
 // create a variable that can be reassigned (let)
-let Name;
+let Myname= "ali" ;
 // create three variables and assign them values of different data types (=)
 const MyName = "Zaid";
 let Num= 60;
