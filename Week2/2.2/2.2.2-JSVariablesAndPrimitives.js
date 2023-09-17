@@ -1,7 +1,7 @@
 // create a variable called "name" that references a string
  let Name = "zaid";
 // create a variable called "favoriteSong" that references a string
-let FavoriteSong = "Last Chrismes"
+let FavoriteSong = "Last Chrismes";
 // create a variable called "wage" that references a number
 let wage = 209687;
 // create a variable called "age" that references a number
@@ -12,7 +12,7 @@ let onlyChild = true;
 let satisfied = false;
 // create a variable called "favoriteThing" that references ANY primitive value
 // print the data type of "favoriteThing"
-let favoriteThing = "listen to the relax music"
+let favoriteThing = "listen to the relax music";
 console.log(typeof favoriteThing);
 // You heard a new song that became your favorite.
 // Reassign the variable "favoriteSong"
