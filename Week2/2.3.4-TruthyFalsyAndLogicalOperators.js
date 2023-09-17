@@ -7,7 +7,7 @@ console.log(true || false);
 console.log(!true);
 //false//
 console.log(!(true && false));
-//false//
+//true//
 console.log(false || !false);
 //true or false//
 
@@ -20,7 +20,7 @@ console.log(!``);
 console.log(!(1 && "false"));
 //false//
 console.log(NaN || !"true");
-
+//false//
 // Set the age variable below equal to a number,
 // then use conditional operators to construct an expression that returns...
 // "full menu" if the age is over 10,
@@ -28,7 +28,7 @@ console.log(NaN || !"true");
 
 let age;
 age = 38;
-if ( age > 10) {
+if (age > 10) {
   console.log("full menu.");
 } else {
   console.log("kids menu.");
@@ -39,10 +39,10 @@ if ( age > 10) {
 //  "The number is zero" when num is 0.
 
 let num = 0;
-if (num === 0 ) {
-  console.log("The number is zero.");
-}
-else {  console.log ("the number is not zero")
+if (num === 0) {
+  console.log("the number is zero");
+} else {
+  console.log("the number is not zero");
 }
 
 // Write your if statement here *
