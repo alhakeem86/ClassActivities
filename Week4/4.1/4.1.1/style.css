@@ -1,0 +1,31 @@
+h1 {
+  color: rebeccapurple;
+}
+#X{
+  color: brown;
+}
+.A {
+  color: chartreuse;
+}
+h1,h2,h3 {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+html {
+  background-color:rgba(224, 230, 245, 0.86) ;
+}
+h1  {
+  border-block: solid;
+  writing-mode: horizontal-tb;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+}
+p {
+  color: blue;
+
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
